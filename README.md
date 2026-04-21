@@ -83,40 +83,40 @@ plt.tight_layout()
 plt.show()
 ```
 
-### OUTPUT:
+## OUTPUT:
 
-## ORIGINAL DATA
+### ORIGINAL DATA
 
 <img width="1291" height="242" alt="image" src="https://github.com/user-attachments/assets/c4e578aa-beab-43cd-af26-38efc23bcf68" />
 
 
 
-## REGULAR DIFFERENCING:
+### REGULAR DIFFERENCING:
 
 <img width="547" height="118" alt="image" src="https://github.com/user-attachments/assets/ed892504-375e-4bff-88c1-63e6a35e6c79" />
 
 
-## SEASONAL ADJUSTMENT:
+### SEASONAL ADJUSTMENT:
 
 <img width="594" height="118" alt="image" src="https://github.com/user-attachments/assets/db563033-93f8-4d23-9cad-e7e9542da731" />
 
 
 
-## LOG TRANSFORMATION:
+### LOG TRANSFORMATION:
 
 <img width="556" height="118" alt="image" src="https://github.com/user-attachments/assets/1d57b75b-8551-4b78-92c9-e27f1ce875fc" />
 
-## LOG + REGULAR DIFFERENCING:
+### LOG + REGULAR DIFFERENCING:
 
 <img width="556" height="118" alt="image" src="https://github.com/user-attachments/assets/a5cd2a0d-d0c5-4c02-9110-d3fd1ec7d6cd" />
 
-## LOG +  DIFF + SEASONING:
+### LOG +  DIFF + SEASONING:
 
 <img width="628" height="105" alt="image" src="https://github.com/user-attachments/assets/d80d8a6d-a73e-4c53-9c20-9b1668e4b759" />
 
 
 
 
-### RESULT:
+## RESULT:
 Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
 data.
